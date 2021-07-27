@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =5
+let g:netrw_dirhist_5='/Users/jules/dev/diss/manhatten_project/simulationConfigs/out/fseng_SCREAM_study'
+let g:netrw_dirhist_4='/Users/jules/Library/Application Support/Firefox/Profiles'
+let g:netrw_dirhist_3='/Users/jules/dev/manhattan_project/simulationConfigs/base_template'
+let g:netrw_dirhist_2='/Users/jules/dev/neurogenesis/neurogenesis'
+let g:netrw_dirhist_1='/Users/jules/PycharmProjects/source-leach/data/offspring/3066274_7/solutions/helper'

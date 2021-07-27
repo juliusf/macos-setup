@@ -3,7 +3,6 @@
 ## xcode
 
 ```
-cp -r .config ~/
 xcode-select —install
 ```
 
